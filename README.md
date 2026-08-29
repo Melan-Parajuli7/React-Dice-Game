@@ -5,10 +5,24 @@ A simple and fun number-guessing dice game built with **React** and **styled-com
 ##  Live Preview
 
 **Landing Screen**
-> A clean landing page with a "Play Now" button to jump straight into the game.
+
+![Landing Screen](./projectImages/LandingScreen.png)
 
 **Gameplay**
-> Select a number from 1–6, click the dice to roll, and see your total score update in real time.
+
+![Gameplay](./projectImages/Rewarded.png)
+
+**Wrong Guess (Points Deducted)**
+
+![Points Deducted](./projectImages/PointsDeductAfterWrongSelection.png)
+
+**No Number Selected Warning**
+
+![No Number Selected](./projectImages/ShuffelingTheDIceWithoutSelectingNumber.png)
+
+**Rules Panel**
+
+![Rules Panel](./projectImages/Rules.png)
 
 ##  How to Play
 
@@ -132,16 +146,9 @@ npm run lint
 - `@types/react`, `@types/react-dom`
 - `globals`
 
-##  Screenshots
+##  Project Structure Screenshot
 
-The `projectImages/` folder in this repo includes:
-- `LandingScreen.png` – Game start screen
-- `StartUpProject.png` – App running in dev mode
-- `PointsDeductAfterWrongSelection.png` – Score deduction on wrong guess
-- `Rewarded.png` – Score increase on correct guess
-- `Rules.png` – Rules panel expanded
-- `ShuffelingTheDIceWithoutSelectingNumber.png` – Validation warning
-- `ProjectStructure.png` – Folder structure overview
+![Project Structure](./projectImages/ProjectStructure.png)
 
 ##  License
 
@@ -149,4 +156,4 @@ This project is open source and available for personal or educational use.
 
 ##  Author
 
-Made with  by ** Melan Parajuli **
+Made with  by  ** Melan Parajuli **
