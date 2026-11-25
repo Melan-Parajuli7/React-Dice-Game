@@ -156,4 +156,9 @@ This project is open source and available for personal or educational use.
 
 ##  Author
 
-Made with  by  ** Melan Parajuli **
+**Mr.Melan Parajuli**  
+GitHub: [Melan Parajuli](https://github.com/MELAN-PARAJULI7)  
+LinkedIn: [Melan Parajuli](https://www.linkedin.com/in/melan-parajuli-b19b08349/)
+
+---
+
